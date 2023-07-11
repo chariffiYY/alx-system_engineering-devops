@@ -28,6 +28,4 @@ git add "$file_name"
 
 # Perform a commit with the provided commit message
 git commit -m "$commit"
-
-# Push the changes to the remote repository
-git push "$file_name"
+git push 
